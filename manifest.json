@@ -1,0 +1,182 @@
+{
+  "package": "OnExpert v3.0 Complete Release",
+  "created": "2026-07-12",
+  "active_instructions": "01_BUILDER/A03_OnExpert_GPT_Instructions_v3.0_Compact.md",
+  "active_knowledge_count": 14,
+  "files": [
+    {
+      "path": "00_RELEASE/CHANGELOG_v3.0.md",
+      "size_bytes": 824,
+      "sha256": "8669ab993dbd205bd4e786a9934ec07a3c71945af62ba7edac7f0f61a1ff93c7",
+      "role": "governance"
+    },
+    {
+      "path": "00_RELEASE/INSTALLATION_GUIDE.md",
+      "size_bytes": 1570,
+      "sha256": "127aba887de3e3a065bbb0ba9a93c17371e766f7743c287f12be24b96656c5a7",
+      "role": "governance"
+    },
+    {
+      "path": "00_RELEASE/README_开始使用.md",
+      "size_bytes": 1882,
+      "sha256": "0cd6d76eb200d85facc32be4dc48800bfb8cee1c4f330102ce95a891b8ed09d3",
+      "role": "governance"
+    },
+    {
+      "path": "01_BUILDER/A01_OnExpert_GPT_Charter_v3.0.md",
+      "size_bytes": 2203,
+      "sha256": "94af3d78c9c1f4991438e76b33582243446e463a9cffa258e086fd1df854396b",
+      "role": "builder"
+    },
+    {
+      "path": "01_BUILDER/A02_OnExpert_GPT_Design_Principles_v3.0.md",
+      "size_bytes": 1752,
+      "sha256": "bde504cbbe2f61435d8545b581fbc47ff56e504da76b49e1166cc1cd7aca156e",
+      "role": "builder"
+    },
+    {
+      "path": "01_BUILDER/A03_OnExpert_GPT_Instructions_v3.0_Compact.md",
+      "size_bytes": 4593,
+      "sha256": "1ba4860eb1aca4f2bc1066beea3532f97e406d2191743bca9db9581a73d8acbb",
+      "role": "builder"
+    },
+    {
+      "path": "01_BUILDER/A04_OnExpert_GPT_Knowledge_Architecture_v3.0.md",
+      "size_bytes": 2792,
+      "sha256": "b7d436d270d834373dec425caad62ebc5b104cc20723a542542d82b524432f5c",
+      "role": "builder"
+    },
+    {
+      "path": "01_BUILDER/A05_OnExpert_GPT_Knowledge_Development_Guide_v3.0.md",
+      "size_bytes": 1752,
+      "sha256": "e09a27541933264717bfbcc4551fca51f39deada04e3ad9142852cc44cc66850",
+      "role": "builder"
+    },
+    {
+      "path": "01_BUILDER/A06_OnExpert_GPT_Test_and_Evaluation_v3.0.md",
+      "size_bytes": 2209,
+      "sha256": "7bbcff02609dd5b0e7f5300b9119861d8fa963bb5ce4ef8b158337a4a04a4436",
+      "role": "builder"
+    },
+    {
+      "path": "01_BUILDER/A07_OnExpert_GPT_Roadmap_v3.0.md",
+      "size_bytes": 1557,
+      "sha256": "6bb50a96bf5aff74fe2a029aa9df0fd0ed2a00ff8a679997411156d89f61ce73",
+      "role": "builder"
+    },
+    {
+      "path": "01_BUILDER/A08_OnExpert_GPT_Creation_Config_v3.0.md",
+      "size_bytes": 1438,
+      "sha256": "8f601e2135a60ef018f671e239c5e6802d92b9aeb28a706d755b0560970f0f81",
+      "role": "builder"
+    },
+    {
+      "path": "02_KNOWLEDGE/01_OnExpert_Foundation.md",
+      "size_bytes": 1703,
+      "sha256": "e05ad23d7eab03f9680ae04201ad0307e47247b32e9b9d2945610a6a4beba88e",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/02_Network_Planning.md",
+      "size_bytes": 1898,
+      "sha256": "8929f912d35b28907b0603e999923cdc5129b97c165f4aac6d57c6deb7db79fb",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/03_Network_Diagnosis.md",
+      "size_bytes": 1716,
+      "sha256": "93e3cafde954dcaa7a22578624295839b338c40fea5b436897bacd646eb1d8a9",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/04_Optical_Technologies.md",
+      "size_bytes": 1569,
+      "sha256": "122ea57ee22d9a78c8a965ff6a8689e0c34a5b56e5ea91b177e1e5c30fd93b93",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/05_Protocols_and_Management.md",
+      "size_bytes": 1577,
+      "sha256": "1bf9908b964611a056fb8581ab6f4f02b98e74472c37a8999f83d8828032f704",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/06_Oneasy_Solution_Framework.md",
+      "size_bytes": 1641,
+      "sha256": "49c2a636ade09397a8cbbb98da8a943aa49de71d40f932d3a0460196126ff12f",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/07_Safety_Compliance_and_AI_Boundaries.md",
+      "size_bytes": 1515,
+      "sha256": "af05ed02256a5784c4064014abaf4869b4d01aae50ff8fff79a9d7489df3847b",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/08_Network_Deployment.md",
+      "size_bytes": 1391,
+      "sha256": "3274e4d3ea44eba0c05e63376c7d358201442898f064d94e94d13670b8ddfb07",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/09_Network_Operations.md",
+      "size_bytes": 1474,
+      "sha256": "527d2925a66582a707583fe2b08d651950fd13f800796636efd952bd43053ac4",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/10_Network_Optimization.md",
+      "size_bytes": 1368,
+      "sha256": "a2305b49d799e75f0b7d2e3f97e439d693cfb97fb2fbedf51d308f9eca5dbbfb",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/11_Device_Ecosystem.md",
+      "size_bytes": 1271,
+      "sha256": "c1648137623a05648567173a5d4562bff3fb4103ca5de4e53c5e66148fc9b80f",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/12_ISP_Business_and_Market.md",
+      "size_bytes": 1400,
+      "sha256": "47d8d2c0959f807addb43d4c4f102641edcfcf4fde3ce7dafdaebe533531c8f0",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/13_Digital_Twin_and_AI_Autonomous_OAM.md",
+      "size_bytes": 4389,
+      "sha256": "a3a8490354e63b9cac2e28253c13fa4f47542fe06ed2f2c6f605c91deca61106",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "02_KNOWLEDGE/14_Device_Digital_Twin_Modeling_and_Validation.md",
+      "size_bytes": 4549,
+      "sha256": "9f32e52886a32ac71eb63b7d8faa7793dcfe4b125de359c1cf078aac4c22f946",
+      "role": "active_knowledge"
+    },
+    {
+      "path": "03_STANDARDS/OnExpert_业界最高数字孪生与AI自治运维能力标准_v1.1.md",
+      "size_bytes": 17093,
+      "sha256": "7710c72831f4a9ffb2eb55cfce2edaed60f84b2278d3ec5a70ba5027cd109888",
+      "role": "governance"
+    },
+    {
+      "path": "03_STANDARDS/OnExpert_接入网设备工程级数字孪生建模方法与标准_v1.0.md",
+      "size_bytes": 20459,
+      "sha256": "439c6d347abfdcc7dc8ce5928304ac9a6af1c02c3cd952ffe1e1c72fdc61f877",
+      "role": "governance"
+    },
+    {
+      "path": "04_TESTS/OnExpert_v3.0_Release_Acceptance_Checklist.md",
+      "size_bytes": 1360,
+      "sha256": "38605428b097a133ede6b428432d90a0848886842bb195b831f68b46961256cb",
+      "role": "governance"
+    },
+    {
+      "path": "04_TESTS/OnExpert_v3.0_Test_Cases.md",
+      "size_bytes": 1397,
+      "sha256": "100ccdb01f01c34307784e4810a85dda96818d7f6b8d65c9c113e7f59a4bdf29",
+      "role": "governance"
+    }
+  ]
+}
